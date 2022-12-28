@@ -1,6 +1,6 @@
 # SenCraft
 SenCraft Minecraft creative server official repository
-![zzHI78.md.png](https://s1.ax1x.com/2022/12/28/zzHI78.md.png)](https://imgse.com/i/zzHI78)
+![zzHI78.md.png](https://s1.ax1x.com/2022/12/28/zzHI78.md.png)
 
 这个仓库会公布SenCraft的一些配置文件&插件代码
 
